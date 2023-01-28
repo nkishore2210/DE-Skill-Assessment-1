@@ -1,0 +1,32 @@
+TITLE:
+
+Design and simulate octal to binary encoder using verilog.
+
+AIM:
+
+To Design and simulate octal to binary encoder using verilog.
+
+INTRODUCTION:
+LOGIC DIAGRAM:
+LOGICAL EXPRESSION:
+BLOCK DIAGRAM:
+TRUTH TABLE:
+EXPLANATION:
+PROGRAM:
+
+module oc_bi_encoder(a0,a1,a2,a3,a4,a5,a6,a7,y1,y2,y3);
+input a0,a1,a2,a3,a4,a5,a6,a7;
+output y1,y2,y3;
+or(y1,a4,a5,a6,a7);
+or(y2,a2,a3,a6,a7);
+or(y3,a1,a3,a5,a7);
+endmodule
+
+RTL DIAGRAM:
+
+
+TIMING DIAGRAM:
+
+RESULT:
+
+Thus the design and simulation of octal to binary encoder using verilog is verified successfully.
