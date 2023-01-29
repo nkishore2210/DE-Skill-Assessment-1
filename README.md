@@ -1,5 +1,8 @@
 # DE-Skill-Assessment-1
 
+Name:Kishore.N
+Ref. No. 22008365
+
 TITLE:
 
 Design and simulate octal to binary encoder using verilog.
