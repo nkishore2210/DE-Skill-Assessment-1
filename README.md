@@ -45,11 +45,11 @@ endmodule
 
 RTL DIAGRAM:
 
-![sa1 rtl](https://user-images.githubusercontent.com/118707090/215322019-79cb3f57-9825-42e5-bcd9-33b808f600b6.png)
+![de sa1 rtl](https://user-images.githubusercontent.com/118707090/215322598-95c41dee-986e-46cf-a3e3-900d8140bd26.png)
 
 TIMING DIAGRAM:
 
-![sa1 timing diagram](https://user-images.githubusercontent.com/118707090/215322041-7afa22cc-2990-4126-81cf-d10d99f25d19.png)
+![de sa1 td](https://user-images.githubusercontent.com/118707090/215322569-f4d3a517-6bbc-42bb-af48-1acb03a5e8b1.png)
 
 RESULT:
 
