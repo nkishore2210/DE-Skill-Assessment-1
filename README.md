@@ -16,9 +16,17 @@ In 8-input lines, one input-line is set to true at a time to get the respective 
 Below are the block diagram and the truth table of the 8 to 3 line encoder.
 
 LOGIC DIAGRAM:
-LOGICAL EXPRESSION:
+
+![image](https://user-images.githubusercontent.com/118707090/215322107-dfaf0ee3-0a2b-4f5c-b8d5-1ae25c8a3b5a.png)
+
 BLOCK DIAGRAM:
+
+![image](https://user-images.githubusercontent.com/118707090/215322226-dcfacf6e-be93-4de8-9308-8f8c446afb8b.png)
+
 TRUTH TABLE:
+
+![image](https://user-images.githubusercontent.com/118707090/215322159-0ed48f24-81c5-4c98-a8c6-1e78fd1160ff.png)
+
 EXPLANATION:
 
 8 to 3-bit priority encoder is an encoder that consists of 8 input lines and 3 output lines.
