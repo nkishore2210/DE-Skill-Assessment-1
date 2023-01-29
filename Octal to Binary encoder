@@ -7,11 +7,22 @@ AIM:
 To Design and simulate octal to binary encoder using verilog.
 
 INTRODUCTION:
+
+The 8 to 3 line Encoder is also known as Octal to Binary Encoder.
+In 8 to 3 line encoder, there is a total of eight inputs, i.e., Y0, Y1, Y2, Y3, Y4, Y5, Y6, and Y7 and three outputs, i.e., A0, A1, and A2.
+In 8-input lines, one input-line is set to true at a time to get the respective binary code in the output side.
+Below are the block diagram and the truth table of the 8 to 3 line encoder.
+
 LOGIC DIAGRAM:
 LOGICAL EXPRESSION:
 BLOCK DIAGRAM:
 TRUTH TABLE:
 EXPLANATION:
+
+8 to 3-bit priority encoder is an encoder that consists of 8 input lines and 3 output lines.
+It can also be called an Octal to a binary encoder.
+Each input line has a base value of 8 (octal) and each output has a base value of 2 (binary).
+
 PROGRAM:
 
 module oc_bi_encoder(a0,a1,a2,a3,a4,a5,a6,a7,y1,y2,y3);
